@@ -1,3 +1,6 @@
+![cabecera-github](https://github.com/h-villafuerte/h-villafuerte/assets/159053312/b5c6824a-95c4-48f2-8c78-78f15c7079bf)
+
+ 
  👋 A lo largo de mi carrera, he cultivado una pasión por el aprendizaje continuo, lo que se refleja en mi constante búsqueda de nuevas tecnologías y técnicas que aplico en mis proyectos personales, evidenciados en este repositorio. 
  Mi capacidad para traducir datos complejos en información clara y relevante, combinada con mi enfoque meticuloso en la precisión y la eficiencia, me posiciona como un recurso valioso para cualquier equipo que busque maximizar el valor de sus datos y optimizar sus procesos de toma de decisiones.
 
